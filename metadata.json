@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Cover Generator",
+  "description": "Automatically generate professional WeChat Official Account cover images from article content using Gemini.",
+  "requestFramePermissions": []
+}
